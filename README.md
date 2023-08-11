@@ -1,8 +1,6 @@
 <h1 align="center">Привет 👋, меня зовут Давыдов Андрей</h1>
 <h3 align="center">я начинающий фронтенд-разработчик.</h3>
 
-<p align="left"> < img src="https://komarev.com/ghpvc/?username=andrei8580&label=Profile%20views&color=0e75b6&style=flat" alt="andrei8580" /> </p>
-
 <h3 align="left">Свяжитесь со мной: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/andrei8580" target="blank"><img align="center" src="https://raw .githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei8580" height="30" width="40" /></a>
