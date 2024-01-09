@@ -1,12 +1,12 @@
 Hi!👋My name is Davydov Andrei.
-I am a beginner front-end developer.
+I am a beginner QA Engineer.
 ------------------------------------
 
 I continue to study and look for work.
 
 * 🌍  I'm based in Armenia,city Gyumri.
 * ✉️  You can contact me at [Davydov8580@gmail.com](mailto:Davydov8580@gmail.com)
-* 🧠  I'm learning a new framework
+* 🧠  I'm learning a new 
 
 
 
