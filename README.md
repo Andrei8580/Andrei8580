@@ -1,8 +1,8 @@
 Hi!👋My name is Davydov Andrei.
-I am a beginner QA Engineer.
+I am a QA Engineer.
 ------------------------------------
 
-I continue to study and look for work.
+There are no boundaries for perfection!
 
 * 🌍  I'm based in Armenia,city Gyumri.
 * ✉️  You can contact me at [Davydov8580@gmail.com](mailto:Davydov8580@gmail.com)
