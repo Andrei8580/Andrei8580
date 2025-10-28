@@ -1,5 +1,5 @@
 Hi!👋My name is Davydov Andrei.
-I am a QA Engineer.
+I am a 3D Technical Artist.
 ------------------------------------
 
 There are no boundaries for perfection!
